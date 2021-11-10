@@ -1,5 +1,5 @@
 # ExtractSatelliteImagesFromCSV
-This repo shows you how to extract satellite images using a CSV file that contains coordinates (latitude and longitude)
+This repo shows you how to extract satellite images using a CSV file that contains coordinates (latitude and longitude). The extracted images can be used for different machine learning tasks such as path loss prediction (Of course the coordinates would have to be around the same area).
 
 Note: This was run in PyCharm on a Windows environment. It works perfectly on Ubuntu too.
 
